@@ -30,6 +30,6 @@ Implementation:
 
 - Copy the modules_index_categories_specials.json into ClicShopping/Work/Cache/Github (manual installation)
 
-marketplace link = https://www.clicshopping.org/forum/files/file/56-modules-index-categories-specials-products/
+marketplace link : https://www.clicshopping.org/forum/files/file/51-modules-index-categories-specials-products/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_index_categories_specials/blob/master/ModuleInfosJson/image.png)
